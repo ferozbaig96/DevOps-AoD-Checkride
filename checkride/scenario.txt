@@ -1,0 +1,18 @@
+Acme Corp has a web application that they’ve containerized but are struggling to push new features reliably, in a timely manner, and at regular ~2 week intervals. Their application engineers coordinate source changes via Github, build image locally, and publish images manually to a private Docker Trusted Registry. Tests are run at the end of each day and a report is emailed to all members of the engineering team. The application runs on a Kubernetes cluster which the team maintains on a set of EC2 servers.
+​
+The Leadership of Acme Corp has asked AWS to help them improve their agility, stability, visibility, and scalability through an updated architecture and process. Provide the Acme Leadership team with an architecture diagram of your solution and be prepared to walk them through it.
+
+
+
+- Containerized Application (k8s cluster on EC2)
+- Push new features at regular interval of ~2 weeks
+- Github CI
+- Build image locally
+- Store Image to private Docker trusted registry
+- Run Tests each day end and email report
+- 
+
+- Agility
+- Stability
+- Visibility
+- Scalability

@@ -1,0 +1,6 @@
+[submodule "cdk-project"]
+	path = cdk-project
+	url = https://github.com/ferozbaig96/cdk-project
+[submodule "cdk-workshop"]
+	path = cdk-workshop
+	url = https://github.com/ferozbaig96/cdk-workshop
